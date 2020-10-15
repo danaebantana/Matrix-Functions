@@ -11,6 +11,8 @@ To understand the program there are two basic structures to get familiar with; t
 
 # Project Parts
  MatrixFunctions.cpp : This file contains the 'main' function. Program execution begins and ends there.
+ 
  Linked-list.h: Header file which contains the class "LinkedList" and its functions declaration.
+ 
  Linked-list.cpp: File that contains the definition of the functions declared in the "Linked-List.h" file.
 
